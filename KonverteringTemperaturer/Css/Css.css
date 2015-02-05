@@ -1,0 +1,23 @@
+﻿#All
+{
+    margin:5px;
+}
+.Box1, .Box2, .Box3
+{
+    width:250px;
+}
+.Red{
+    color:#ff0000;
+}
+.Green{
+    color:#00ff90;
+}
+.Table
+{
+    width:210px;
+    color:#0026ff;
+    text-align:center;
+    position:relative;
+    border:1px solid black;
+    margin:20px;
+}
